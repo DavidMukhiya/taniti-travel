@@ -2,8 +2,8 @@
 
 A tourism website prototype for WGU D479.
 
-- **Initial Prototype:** `initial.html`
-- **Revised Prototype:** `revised.html`
+- **Taniti Travel (Before Feedback):** `initial.html`
+- **Taniti Travel (After Feedback):** `revised.html`
 
 ## Changes in the revised version
 
